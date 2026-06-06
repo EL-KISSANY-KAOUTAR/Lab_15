@@ -110,7 +110,7 @@ Installer le certificat en tant que certificat CA utilisateur.
 
 <img width="862" height="437" alt="image" src="https://github.com/user-attachments/assets/8c76422f-de34-4d7f-af8e-82556d2c076a" />
 
-<img width="1539" height="1022" alt="image" src="https://github.com/user-attachments/assets/ea53fff4-dacc-4286-8108-c5d3b4330a88" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/19263d7b-cb0e-4cab-9d1f-9f5d7275bb28" />
 
 
 
