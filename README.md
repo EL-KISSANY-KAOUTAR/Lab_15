@@ -260,7 +260,7 @@ Le script suivant applique plusieurs hooks afin de neutraliser les mécanismes d
 Illustration :
 
 ![SSL Pinning Script](https://github.com/user-attachments/assets/8c76422f-de34-4d7f-af8e-82556d2c076a)
-
+ 
 ---
 
 ### Injection du script
