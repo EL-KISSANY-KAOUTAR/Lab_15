@@ -298,7 +298,10 @@ Après injection, Frida affiche les hooks appliqués :
 
 Illustration :
 
-![Bypass SSL Pinning](https://github.com/user-attachments/assets/19263d7b-cb0e-4cab-9d1f-9f5d7275bb28)
+<img width="413" height="34" alt="image" src="https://github.com/user-attachments/assets/483ebefc-4d53-4e36-80ae-0de7f8a1fb59" />
+
+<img width="412" height="199" alt="image" src="https://github.com/user-attachments/assets/5ce8ce11-7390-40a0-9d90-b3b577a144d2" />
+
 
 ---
 
